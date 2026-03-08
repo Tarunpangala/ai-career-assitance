@@ -10,5 +10,4 @@ pdfplumber==0.11.1
 requests==2.32.3
 google-genai==1.5.0
 langchain==0.2.1
-langchain-core==0.1.52
 langchain-google-genai==1.0.3
